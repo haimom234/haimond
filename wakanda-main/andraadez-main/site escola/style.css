@@ -1,0 +1,21 @@
+*{padding:0;
+    margin: 0;   
+   
+   }
+   .cabeçalho{background-color: #383D58;
+   color: white;}
+   .imagem-cabeçalho{
+     width: 20%;  
+   }
+   .cabeçalho{display: flex;
+   justify-content: space-around;
+   padding: 24px 0;}
+   
+   .lista-item{ 
+     padding: 24px 0;
+     display: inline-block;
+     margin: 016px;padding: 24px0; 
+     align-items: center;
+   } 
+   a{text-decoration: none;color: white;}
+   
